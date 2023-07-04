@@ -1,1 +1,1 @@
-# This is a Movie App that built with React and ASP.NET Core - WebApi
+# Movie Website that built with React and ASP.NET Core - WebApi
